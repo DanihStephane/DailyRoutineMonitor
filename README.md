@@ -1,3 +1,4 @@
+Application en cours de developpement [Prototype]
 # HabitFlow - Suivi des Habitudes
 
 Une application web moderne et intuitive pour suivre vos habitudes quotidiennes et atteindre vos objectifs personnels.
