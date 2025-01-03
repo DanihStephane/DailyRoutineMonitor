@@ -34,4 +34,4 @@ Une application web moderne et intuitive pour suivre vos habitudes quotidiennes 
 
 ## 📝 License
 
-MIT
+free : https://github.com/DanihStephane
